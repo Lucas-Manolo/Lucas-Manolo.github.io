@@ -1,0 +1,6 @@
+altura = 106px
+largura = 125px
+
+3* =
+altura = 318px
+largura = =375px

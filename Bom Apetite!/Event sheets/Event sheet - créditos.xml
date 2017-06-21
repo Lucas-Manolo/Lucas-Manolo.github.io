@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet - créditos</name>
+    <events>
+        <event-block sid="738605305546490">
+            <conditions>
+                <condition id="1" name="On any key pressed" sid="955729074377995" type="Keyboard" />
+            </conditions>
+            <actions />
+        </event-block>
+    </events>
+</c2eventsheet>
