@@ -11,11 +11,11 @@ Sou um estudante de jogos que gosta muita de biscoito.
 
 ## Games
 
-[ jogo 1 oficina : Supermeatboy ] (https://lucas-manolo.github.io/Invoke/)
+[jogo 1 oficina : Supermeatboy] (https://lucas-manolo.github.io/Invoke/)
 
 ## Artes  
-! [ Imagem 1 ] (https://www.istockphoto.com/br/vetor/ilustra%C3%A7%C3%A3o-de-arte-e-projeto-cachorro-pixels-gm543078208-97386429)  
-! [ ] ( blut.jpg )
+! [Imagem 1] (https://www.istockphoto.com/br/vetor/ilustra%C3%A7%C3%A3o-de-arte-e-projeto-cachorro-pixels-gm543078208-97386429)  
+! [] (blut.jpg)
 
 ## Apresentações
 * Aula de música  
