@@ -5,23 +5,11 @@ layout: default
 Criando **minha**, _página_, ~~principal~~.
 
 # Quem sou eu?  
-Sou um estudante de jogos que gosta muita de biscoito.
+Sou estudante do curso de Programação de Jogos Digitais do IFRN, muito embora eu ache que o nome mais apropriado seja Desenvolvimento de Jogos Digitais. Ainda que tenha conhecimentos para atuar em áreas como programação, design gráfico ~~e animação~~, a minha função preferida é a de GameDesigner. Além de gostar muito de joginhos, possuo muita admiração por cultura e arte e procuro estar envolvido em questões políticas e sociais também.
 
-# Produções
+![](Minhafoto.png)  
+***
 
-## Games
-
-[jogo 1 oficina : Supermeatboy](https://lucas-manolo.github.io/Invoke/)
-
-## Artes  
-![Imagem 1](http://br.kogstatic.com/gen_images/85/88/8588bffa3d074e19b7267c52994c9612.png)  
-![](blut.jpg)
-![](blut.jpg)
-
-## Apresentações
-* Aula de música  
-* Aula de tatro  
-* Aula chata  
 
 ## Jogos  
 
@@ -45,7 +33,7 @@ Algumas artes que produzi ao longo do curso de jogos digitais.
 ![](arte3.png)  
 ![](arte4.png)  
  
-
+***
 
 
 
