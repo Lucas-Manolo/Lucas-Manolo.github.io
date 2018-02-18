@@ -23,8 +23,9 @@ Sou um estudante de jogos que gosta muita de biscoito.
 * Aula de tatro  
 * Aula chata  
 
-## Jogos
+## Jogos  
 
+Jogos feitos na disciplina Oficina de Jogos Digitais. A meta é fazer um jogo em cada bimestre. Devido ao curto espaço de tempo, os jogos são curtos e podem apresentar alguns bugs.
 
 [![](jogo_invoke.png)](https://lucas-manolo.github.io/Invoke/)  
 [![](jogo_bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/) 
