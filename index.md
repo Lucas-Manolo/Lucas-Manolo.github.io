@@ -26,7 +26,9 @@ Sou um estudante de jogos que gosta muita de biscoito.
 ## Jogos
 
 
-[![](jogo_oculos.png)](https://lucas-manolo.github.io/Invoke/)
+[![](jogo_invoke.png)](https://lucas-manolo.github.io/Invoke/)  
+[![](jogo_bomapetite.png)](https://lucas-manolo.github.io/Bom Apetite!/)  
+[![](jogo_oculos.png)](https://lucas-manolo.github.io/Óculos que tudo vê/)  
 
 
 
