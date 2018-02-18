@@ -1,2 +1,2 @@
-# Lucas-Manolo.github.io
-Site para mostragem de jogos.
+#Lucas  Emmuanuell
+Portfólio de Jogos Digitais
