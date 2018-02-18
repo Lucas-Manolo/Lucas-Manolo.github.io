@@ -40,10 +40,10 @@ Jogos feitos na disciplina Oficina de Jogos Digitais. A meta é fazer um jogo em
 
 Algumas artes que produzi ao longo do curso de jogos digitais. 
 
-![](arte1.jpg)  
-![](arte2.jpg)  
-![](arte3.jpg)  
-![](arte4.jpg)  
+![](arte1.png)  
+![](arte2.png)  
+![](arte3.png)  
+![](arte4.png)  
  
 
 
