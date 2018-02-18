@@ -14,7 +14,8 @@ Sou um estudante de jogos que gosta muita de biscoito.
 [jogo 1 oficina : Supermeatboy](https://lucas-manolo.github.io/Invoke/)
 
 ## Artes  
-![Imagem 1](http://br.kogstatic.com/gen_images/85/88/8588bffa3d074e19b7267c52994c9612.png)
+![Imagem 1](http://br.kogstatic.com/gen_images/85/88/8588bffa3d074e19b7267c52994c9612.png)  
+![](blut.jpg)
 ![](blut.jpg)
 
 ## Apresentações
