@@ -26,7 +26,7 @@ Sou um estudante de jogos que gosta muita de biscoito.
 ## Jogos
 
 
-[![](jogo_invoke.ppg)](https://lucas-manolo.github.io/Invoke/)
+[![](jogo_invoke.png)](https://lucas-manolo.github.io/Invoke/)
 
 
 
