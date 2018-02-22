@@ -28,7 +28,7 @@ Algumas artes que produzi ao longo do curso de jogos digitais.
 ### Artes para jogo Bom apetite!  
 Neste jogo fiz algumas artes de personagem e objeto.
 
-![](arte4.png) ![](arte12.png)
+![](arte4.png) ![](arte10.png)
 
 
 ![](arte1.png)  
