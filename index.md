@@ -15,6 +15,7 @@ Sou estudante do curso de Programação de Jogos Digitais do IFRN, muito embora 
 ## Jogos  
 
 Jogos feitos na disciplina Oficina de Jogos Digitais. A meta é fazer um jogo em cada bimestre. Devido ao curto espaço de tempo, os jogos são curtos e podem apresentar alguns bugs.
+Muito embora eu tenha criado certas artes para os jogos, minha participação principal fica nas áreas de conceito, Gamedesign e Leveldesign.
 
 
 [![](jogo_invoke.png)](https://lucas-manolo.github.io/Invoke/) [![](jogo_bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/) [![](jogo_oculos.png)](https://lucas-manolo.github.io/%C3%93culos%20que%20tudo%20v%C3%AA/)  
@@ -32,7 +33,11 @@ Neste jogo fiz algumas artes de personagem e objeto.
 Neste jogo eu fiz a arte dos elementos do HUD, além de fazer o menu incial.  
 ![](arte11.png)  
 ![](arte7.png) ![](arte6.png) ![](arte5.png)  
-![](arte8.png)               ![](arte9.png)
+![](arte8.png)               ![](arte9.png)  
+### Artes para jogo Óculos que tudo vê 
+Já aqui, foquei minhas habilidades no Game e Leveldesign. Mesmo assim, fiz as artes das telas de menu inicial e de game over.  
+![](arte12.png)  
+![](arte2.png)
 
 
 
