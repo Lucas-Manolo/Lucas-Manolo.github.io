@@ -27,8 +27,14 @@ Algumas artes que produzi ao longo do curso de jogos digitais.
 
 ### Artes para jogo Bom apetite!  
 Neste jogo fiz algumas artes de personagem e objeto.
-
 ![](arte4.png) ![](arte10.png)
+### Artes para jogo Invoke  
+Neste jogo eu fiz a arte dos elementos do HUD, além de fazer o menu incial.  
+![](arte11.png)
+![](arte7.png) ![](arte6.png) ![](arte5.png)  
+![](arte8.png) ![](arte9.png)
+
+
 
 
 ![](arte1.png)  
