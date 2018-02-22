@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Criando **minha**, _página_, ~~principal~~.
-
 # Quem sou eu?  
 Sou estudante do curso de Programação de Jogos Digitais do IFRN, muito embora eu ache que o nome mais apropriado seja Desenvolvimento de Jogos Digitais. Ainda que tenha conhecimentos para atuar em áreas como programação, design gráfico ~~e animação~~, a minha função preferida é a de **GameDesigner**. Além de gostar muito de joginhos, possuo muita admiração por cultura e arte e procuro estar envolvido em questões políticas e sociais também.
 
@@ -37,19 +35,16 @@ Neste jogo eu fiz a arte dos elementos do HUD, além de fazer o menu incial.
 ### Artes para jogo Óculos que tudo vê 
 Já aqui, foquei minhas habilidades no Game e Leveldesign. Mesmo assim, fiz as artes das telas de menu inicial e de game over.  
 ![](arte12.png)  
-![](arte2.png)
-
-
-
-
-![](arte1.png)  
-![](arte2.png)  
-![](arte3.png)  
-![](arte4.png)  
+![](arte2.png)    
  
 ***
+## Outros projetos
+Ainda que o IFRN nos tome bastante tempo, milagrosamente ainda podemos realizar certas atividades. Aqui deixo alguns tranalho que, direta e indiretamente, contribuem para as minhas aspirações na área de Jogos Digitais.
 
+### Mangás 
 
+### Projeto social (em construção)  
+O projeto ainda está em fase embrionária, mas já podemos dar algumas informações.
 
 
 * * *
