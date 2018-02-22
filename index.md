@@ -49,19 +49,10 @@ Os mangás foram feitos em parceria com o artista Mychellangello Ruttyelli, resp
 ### Projeto social (em construção)  
 O projeto ainda está em fase embrionária, mas já podemos dar algumas informações.
 
+[![](cultiveoficial_l2.png)](https://drive.google.com/file/d/1YkAXBetTFqihIn97y9sonzY4Wt5JlMBS/view?usp=sharing) 
 
 * * *
 
 ## Contatos:
 **Email**: lucasemmanuell27@gmail.com
 
-
-** negrito  
-_ _ italico  
-~~ ~~ traçado  
-   dois espaços para pular linha  
-3* fazem barra  
-#deixa o titulo maior  
-Mais de uma # cria subcapítulos
-*(asteriscios) fazem lista não numerada  
-2(numeros0 fazem lista numerada
