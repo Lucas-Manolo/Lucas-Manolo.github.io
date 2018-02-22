@@ -46,7 +46,7 @@ Os mangás foram feitos em parceria com o artista Mychellangello Ruttyelli, resp
 
 [![](tales.png)](https://drive.google.com/file/d/1PydoiWrJQCWzY3W_pSLLIsDCOxPpKbBh/view?usp=sharing)
 [![](ivomaia.png)](https://drive.google.com/file/d/18ZXwdbvNRoebIrsM-R9QxdT01ftPoyov/view?usp=sharing)
-[![](dolores.png)](https://drive.google.com/file/d/1nhr828KlmXTCU_4OmbLijZsBUju1x7Kf/view?usp=sharing)
+[![](Dolores.png)](https://drive.google.com/file/d/1nhr828KlmXTCU_4OmbLijZsBUju1x7Kf/view?usp=sharing)
 
 ### Projeto social (em construção)  
 O projeto ainda está em fase embrionária, mas já podemos dar algumas informações.
