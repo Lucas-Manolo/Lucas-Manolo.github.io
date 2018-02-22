@@ -44,7 +44,7 @@ Ainda que o IFRN nos tome bastante tempo, milagrosamente ainda podemos realizar 
 ### Mangás 
 Os mangás foram feitos em parceria com o artista Mychellangello Ruttyelli, responsável por toda a parte visual. A mim coube o roteiro das obras.  
 
-![](tales.jpg)(https://drive.google.com/drive/folders/19NyLlsuJZgVMvF3FsCQHZokIstqkkcOs?usp=sharing)
+[![](tales.jpg)](https://drive.google.com/drive/folders/19NyLlsuJZgVMvF3FsCQHZokIstqkkcOs?usp=sharing)
 
 ### Projeto social (em construção)  
 O projeto ainda está em fase embrionária, mas já podemos dar algumas informações.
