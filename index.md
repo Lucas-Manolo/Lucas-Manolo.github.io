@@ -17,7 +17,7 @@ Sou estudante do curso de Programação de Jogos Digitais do IFRN, muito embora 
 Jogos feitos na disciplina Oficina de Jogos Digitais. A meta é fazer um jogo em cada bimestre. Devido ao curto espaço de tempo, os jogos são curtos e podem apresentar alguns bugs.
 
 **Invoke**
-[![](jogo_invoke.png)](https://lucas-manolo.github.io/Invoke/) [![](jogobomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/) [![](jogo_oculos.png)](https://lucas-manolo.github.io/%C3%93culos%20que%20tudo%20v%C3%AA/)  
+[![](jogo_invoke.png)](https://lucas-manolo.github.io/Invoke/) [![](jogo_bomapetite.png)](https://lucas-manolo.github.io/Bom%20Apetite!/) [![](jogo_oculos.png)](https://lucas-manolo.github.io/%C3%93culos%20que%20tudo%20v%C3%AA/)  
 
 ***
 
