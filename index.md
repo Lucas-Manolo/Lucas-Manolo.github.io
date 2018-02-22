@@ -42,6 +42,7 @@ Já aqui, foquei minhas habilidades no Game e Leveldesign. Mesmo assim, fiz as a
 Ainda que o IFRN nos tome bastante tempo, milagrosamente ainda podemos realizar certas atividades. Aqui deixo alguns tranalho que, direta e indiretamente, contribuem para as minhas aspirações na área de Jogos Digitais.
 
 ### Mangás 
+Os mangás foram feitos em parceria com o artista Mychellangello Ruttyelli, responsável por toda a parte visual. A mim coube o roteiro das obras.  
 
 ### Projeto social (em construção)  
 O projeto ainda está em fase embrionária, mas já podemos dar algumas informações.
