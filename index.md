@@ -54,5 +54,5 @@ O projeto ainda está em fase embrionária, mas já podemos dar algumas informa�
 * * *
 
 ## Contatos:
-**Email**: lucasemmanuell27@gmail.com
+**Email**: [lucasemmanuell27@gmail.com(lucasemmanue27@gmail.com)]
 
