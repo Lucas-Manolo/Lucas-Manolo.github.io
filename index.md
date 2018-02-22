@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Quem sou EPA eu?  
+# Quem sou eu?  
 Sou estudante do curso de Programação de Jogos Digitais do IFRN, muito embora eu ache que o nome mais apropriado seja Desenvolvimento de Jogos Digitais. Ainda que tenha conhecimentos para atuar em áreas como programação, design gráfico ~~e animação~~, a minha função preferida é a de **GameDesigner**. Além de gostar muito de joginhos, possuo muita admiração por cultura e arte e procuro estar envolvido em questões políticas e sociais também.
 
    ![](Minhafoto.png) 
